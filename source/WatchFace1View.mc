@@ -19,12 +19,24 @@ class WatchFace1View extends WatchUi.WatchFace {
     private var _fullScreenRefresh as Boolean;
     private var _partialUpdatesAllowed as Boolean;
 
+    public var markCount as Number;
+    public var showTwelve as Boolean;
+    public var showAllNumbers as Boolean;
+
     //! Initialize variables for this view
     public function initialize() {
         WatchFace.initialize();
         _screenShape = System.getDeviceSettings().screenShape;
         _fullScreenRefresh = true;
         _partialUpdatesAllowed = (WatchUi.WatchFace has :onPartialUpdate);
+
+        setDefault();
+    }
+
+    public function setDefault() {
+        markCount = 12;
+        showTwelve = true;
+        showAllNumbers = true;
     }
 
     //! Configure the layout of the watchface for this device
@@ -32,8 +44,8 @@ class WatchFace1View extends WatchUi.WatchFace {
     public function onLayout(dc as Dc) as Void {
 
         // Load the custom font we use for drawing the 3, 6, 9, and 12 on the watchface.
-        _font = WatchUi.loadResource($.Rez.Fonts.id_basic_titlefont) as FontResource;
-        //_font = WatchUi.loadResource($.Rez.Fonts.id_font_black_diamond) as FontResource;
+        //_font = WatchUi.loadResource($.Rez.Fonts.id_basic_titlefont) as FontResource;
+        _font = WatchUi.loadResource($.Rez.Fonts.id_font_black_diamond) as FontResource;
 
         // If this device supports the Do Not Disturb feature,
         // load the associated Icon into memory.
@@ -52,6 +64,7 @@ class WatchFace1View extends WatchUi.WatchFace {
                 :width=>dc.getWidth(),
                 :height=>dc.getHeight(),
                 :palette=> [
+                    Graphics.COLOR_DK_RED,
                     Graphics.COLOR_DK_GRAY,
                     Graphics.COLOR_LT_GRAY,
                     Graphics.COLOR_BLACK,
@@ -116,46 +129,30 @@ class WatchFace1View extends WatchUi.WatchFace {
         var border = 7;
         var markLength = 15;
 
-        // Draw hashmarks differently depending on screen geometry.
+        // Drawing hashmarks differently depending on screen geometry did not work in garmin example.
         if (System.SCREEN_SHAPE_ROUND == _screenShape) {            
-            var outerRad = width / 2;
-            var innerRad = outerRad - 10;
-            // Loop through each 15 minute block and draw tick marks.
-            for (var i = Math.PI / 6; i <= 11 * Math.PI / 6; i += (Math.PI / 3)) {
-                // Partially unrolled loop to draw two tickmarks in 15 minute block.
-                var sY = outerRad + innerRad * Math.sin(i);
-                var eY = outerRad + outerRad * Math.sin(i);
-                var sX = outerRad + innerRad * Math.cos(i);
-                var eX = outerRad + outerRad * Math.cos(i);
-                dc.drawLine(sX, sY, eX, eY);
-                i += Math.PI / 6;
-                sY = outerRad + innerRad * Math.sin(i);
-                eY = outerRad + outerRad * Math.sin(i);
-                sX = outerRad + innerRad * Math.cos(i);
-                eX = outerRad + outerRad * Math.cos(i);
+            // Marks can be placed every 1/12 of the circle. Iterating around the clock in units of pi/6. 
+            // Intervals depend on number of marks specified.
+            for (var i = 0; i < 12; i += (12 / markCount)) {
+                // Leaving space for a progress bar to go around the clock
+                var xOffset = border * Math.cos(i * Math.PI / 6);
+                var yOffset = border * Math.sin(i * Math.PI / 6);
+
+                var sX = faceRadius + faceRadius * Math.cos(i * Math.PI / 6) - xOffset;
+                var sY = faceRadius + faceRadius * Math.sin(i * Math.PI / 6) - yOffset;
+                var eX = faceRadius + (faceRadius - markLength) * Math.cos(i * Math.PI / 6) - xOffset;
+                var eY = faceRadius + (faceRadius - markLength) * Math.sin(i * Math.PI / 6) - yOffset;
+
                 dc.drawLine(sX, sY, eX, eY);
             }
-        } else {
-            /*var coords = [0, width / 4, (3 * width) / 4, width] as Array<Number>;
-            //var xCoordsNew = [(width / 2) - 1, width - border - markLength, (width / 2) - 1, border];
-            //var yCoordsNew = [height - border, heigth / 2, border, heigth / 2];
-            for (var i = 0; i < coords.size(); i++) {
-                var dx = ((width / 2.0) - coords[i]) / (height / 2.0);
-                var upperX = coords[i];
-                // Draw the upper hash marks.
-                dc.fillPolygon([[coords[i] - 1, 2] as Array<Float or Number>,
-                                [upperX - 1, 12] as Array<Float or Number>,
-                                [upperX + 1, 12] as Array<Float or Number>,
-                                [coords[i] + 1, 2] as Array<Float or Number>] as Array< Array<Float or Number> >);
-                // Draw the lower hash marks.
-                dc.fillPolygon([[coords[i] - 1, height - 2] as Array<Float or Number>,
-                                [upperX - 1, height - 12] as Array<Float or Number>,
-                                [upperX + 1, height - 12] as Array<Float or Number>,
-                                [coords[i] + 1, height - 2] as Array<Float or Number>] as Array< Array<Float or Number> >);
-                dc.fillPolygon([xCoordsNew[i], yCoordsNew[i] as Array<Float or Number>,] as Array< Array<Float or Number> >);
-            }*/
+            }
 
-            for (var i = 0; i <= 12; i ++) {
+        // Maybe change this so that 2-, 4-, 5-, ... marks follow rectangular shape of the watch.
+        else {
+            // Marks can be placed every 1/12 of the circle. Iterating around the clock in units of pi/6. 
+            // Intervals depend on number of marks specified.
+            for (var i = 0; i < 12; i += (12 / markCount)) {
+                // Leaving space for a progress bar to go around the clock
                 var xOffset = border * Math.cos(i * Math.PI / 6);
                 var yOffset = border * Math.sin(i * Math.PI / 6);
 
@@ -169,10 +166,30 @@ class WatchFace1View extends WatchUi.WatchFace {
         }
     }
 
+    private function drawNumberLabels(dc as DC) as Void {
+        var width = dc.getWidth();
+        var height = dc.getHeight();
+        // Draw the 3, 6, 9, and 12 hour labels.
+        var font = _font;
+        if (font != null) {
+            if (showTwelve or showAllNumbers) {
+                dc.setColor(Graphics.COLOR_DK_RED, Graphics.COLOR_BLACK);
+                dc.drawText(width / 2, 10, font, "12", Graphics.TEXT_JUSTIFY_CENTER);
+            }
+            if (showAllNumbers) {
+                dc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
+                dc.drawText(width - 10, (height / 2) - 15, font, "3", Graphics.TEXT_JUSTIFY_RIGHT);
+                dc.drawText(width / 2, height - 40, font, "6", Graphics.TEXT_JUSTIFY_CENTER);
+                dc.drawText(10, (height / 2) - 15, font, "9", Graphics.TEXT_JUSTIFY_LEFT);
+            }
+            
+        }
+    }
+
     //! Handle the update event
     //! @param dc Device context
     public function onUpdate(dc as Dc) as Void {
-        var screenWidth = dc.getWidth();
+                var screenWidth = dc.getWidth();
         var clockTime = System.getClockTime();
         var targetDc = null;
 
@@ -195,15 +212,10 @@ class WatchFace1View extends WatchUi.WatchFace {
         targetDc.setColor(Graphics.COLOR_BLACK, Graphics.COLOR_WHITE);
         targetDc.fillRectangle(0, 0, dc.getWidth(), dc.getHeight());
 
-        // Draw a grey triangle over the upper right half of the screen.
-        targetDc.setColor(Graphics.COLOR_DK_GRAY, Graphics.COLOR_DK_GRAY);
-        targetDc.fillPolygon([[0, 0] as Array<Number>,
-                              [targetDc.getWidth(), 0] as Array<Number>,
-                              [targetDc.getWidth(), targetDc.getHeight()] as Array<Number>,
-                              [0, 0] as Array<Number>] as Array< Array<Number> >);
-
         // Draw the tick marks around the edges of the screen
+        targetDc.setColor(Graphics.COLOR_LT_GRAY, Graphics.COLOR_DK_GRAY);
         drawHashMarks(targetDc);
+        drawNumberLabels(targetDc);
 
         // Draw the do-not-disturb icon if we support it and the setting is enabled
         var dndIcon = _dndIcon;
@@ -231,16 +243,7 @@ class WatchFace1View extends WatchUi.WatchFace {
         targetDc.setColor(Graphics.COLOR_BLACK,Graphics.COLOR_BLACK);
         targetDc.drawCircle(width / 2, height / 2, 7);
 
-        // Draw the 3, 6, 9, and 12 hour labels.
-        var font = _font;
-        if (font != null) {
-            targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_DK_GRAY);
-            targetDc.drawText(width / 2, 2, font, "12", Graphics.TEXT_JUSTIFY_CENTER);
-            targetDc.drawText(width - 2, (height / 2) - 15, font, "3", Graphics.TEXT_JUSTIFY_RIGHT);
-            targetDc.setColor(Graphics.COLOR_WHITE, Graphics.COLOR_BLACK);
-            targetDc.drawText(width / 2, height - 30, font, "6", Graphics.TEXT_JUSTIFY_CENTER);
-            targetDc.drawText(2, (height / 2) - 15, font, "9", Graphics.TEXT_JUSTIFY_LEFT);
-        }
+        
 
         // If we have an offscreen buffer that we are using for the date string,
         // Draw the date into it. If we do not, the date will get drawn every update

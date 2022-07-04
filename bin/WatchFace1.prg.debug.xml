@@ -2,209 +2,216 @@
 <debugInfo>
     <manifest filename="C:\Users\Verena\Documents\connectiq-sdk-manager-windows\WatchFace1\manifest.xml"/>
     <pcToLineNum>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="23" parent="globals/WatchFace1View" pc="268435456" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="24" parent="globals/WatchFace1View" pc="268435460" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="25" parent="globals/WatchFace1View" pc="268435478" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="26" parent="globals/WatchFace1View" pc="268435507" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="27" parent="globals/WatchFace1View" pc="268435517" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="32" parent="globals/WatchFace1View" pc="268435544" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="35" parent="globals/WatchFace1View" pc="268435548" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="47" parent="globals/WatchFace1View" pc="268435595" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="51" parent="globals/WatchFace1View" pc="268435610" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="66" parent="globals/WatchFace1View" pc="268435782" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="71" parent="globals/WatchFace1View" pc="268435879" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="74" parent="globals/WatchFace1View" pc="268435888" symbol="onLayout"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="87" parent="globals/WatchFace1View" pc="268435953" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="89" parent="globals/WatchFace1View" pc="268435957" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="93" parent="globals/WatchFace1View" pc="268436149" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="94" parent="globals/WatchFace1View" pc="268436157" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="95" parent="globals/WatchFace1View" pc="268436176" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="98" parent="globals/WatchFace1View" pc="268436195" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="99" parent="globals/WatchFace1View" pc="268436213" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="100" parent="globals/WatchFace1View" pc="268436250" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="102" parent="globals/WatchFace1View" pc="268436287" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="105" parent="globals/WatchFace1View" pc="268436349" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="110" parent="globals/WatchFace1View" pc="268436353" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="112" parent="globals/WatchFace1View" pc="268436357" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="113" parent="globals/WatchFace1View" pc="268436370" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="114" parent="globals/WatchFace1View" pc="268436383" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="116" parent="globals/WatchFace1View" pc="268436393" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="117" parent="globals/WatchFace1View" pc="268436400" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="120" parent="globals/WatchFace1View" pc="268436407" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="121" parent="globals/WatchFace1View" pc="268436431" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="122" parent="globals/WatchFace1View" pc="268436441" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="124" parent="globals/WatchFace1View" pc="268436451" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="126" parent="globals/WatchFace1View" pc="268436501" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="127" parent="globals/WatchFace1View" pc="268436526" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="128" parent="globals/WatchFace1View" pc="268436551" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="129" parent="globals/WatchFace1View" pc="268436576" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="130" parent="globals/WatchFace1View" pc="268436601" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="131" parent="globals/WatchFace1View" pc="268436621" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="132" parent="globals/WatchFace1View" pc="268436644" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="133" parent="globals/WatchFace1View" pc="268436669" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="134" parent="globals/WatchFace1View" pc="268436694" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="135" parent="globals/WatchFace1View" pc="268436719" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="136" parent="globals/WatchFace1View" pc="268436744" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="158" parent="globals/WatchFace1View" pc="268436793" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="159" parent="globals/WatchFace1View" pc="268436811" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="160" parent="globals/WatchFace1View" pc="268436852" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="162" parent="globals/WatchFace1View" pc="268436893" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="163" parent="globals/WatchFace1View" pc="268436940" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="164" parent="globals/WatchFace1View" pc="268436987" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="165" parent="globals/WatchFace1View" pc="268437037" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="167" parent="globals/WatchFace1View" pc="268437087" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="174" parent="globals/WatchFace1View" pc="268437121" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="175" parent="globals/WatchFace1View" pc="268437125" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="176" parent="globals/WatchFace1View" pc="268437138" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="177" parent="globals/WatchFace1View" pc="268437155" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="180" parent="globals/WatchFace1View" pc="268437158" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="181" parent="globals/WatchFace1View" pc="268437168" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="182" parent="globals/WatchFace1View" pc="268437178" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="183" parent="globals/WatchFace1View" pc="268437185" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="186" parent="globals/WatchFace1View" pc="268437197" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="188" parent="globals/WatchFace1View" pc="268437213" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="191" parent="globals/WatchFace1View" pc="268437217" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="192" parent="globals/WatchFace1View" pc="268437230" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="195" parent="globals/WatchFace1View" pc="268437243" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="196" parent="globals/WatchFace1View" pc="268437279" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="199" parent="globals/WatchFace1View" pc="268437323" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="200" parent="globals/WatchFace1View" pc="268437359" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="206" parent="globals/WatchFace1View" pc="268437555" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="209" parent="globals/WatchFace1View" pc="268437569" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="210" parent="globals/WatchFace1View" pc="268437579" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="211" parent="globals/WatchFace1View" pc="268437613" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="215" parent="globals/WatchFace1View" pc="268437652" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="218" parent="globals/WatchFace1View" pc="268437688" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="219" parent="globals/WatchFace1View" pc="268437719" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="220" parent="globals/WatchFace1View" pc="268437729" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="222" parent="globals/WatchFace1View" pc="268437752" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="225" parent="globals/WatchFace1View" pc="268437800" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="226" parent="globals/WatchFace1View" pc="268437835" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="229" parent="globals/WatchFace1View" pc="268437883" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="230" parent="globals/WatchFace1View" pc="268437919" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="231" parent="globals/WatchFace1View" pc="268437952" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="232" parent="globals/WatchFace1View" pc="268437988" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="235" parent="globals/WatchFace1View" pc="268438021" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="236" parent="globals/WatchFace1View" pc="268438031" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="237" parent="globals/WatchFace1View" pc="268438038" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="238" parent="globals/WatchFace1View" pc="268438074" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="239" parent="globals/WatchFace1View" pc="268438118" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="240" parent="globals/WatchFace1View" pc="268438171" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="241" parent="globals/WatchFace1View" pc="268438207" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="242" parent="globals/WatchFace1View" pc="268438254" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="248" parent="globals/WatchFace1View" pc="268438307" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="249" parent="globals/WatchFace1View" pc="268438317" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="250" parent="globals/WatchFace1View" pc="268438334" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="253" parent="globals/WatchFace1View" pc="268438347" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="256" parent="globals/WatchFace1View" pc="268438380" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="260" parent="globals/WatchFace1View" pc="268438410" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="263" parent="globals/WatchFace1View" pc="268438424" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="264" parent="globals/WatchFace1View" pc="268438477" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="265" parent="globals/WatchFace1View" pc="268438513" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="267" parent="globals/WatchFace1View" pc="268438573" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="270" parent="globals/WatchFace1View" pc="268438584" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="271" parent="globals/WatchFace1View" pc="268438601" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="274" parent="globals/WatchFace1View" pc="268438612" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="275" parent="globals/WatchFace1View" pc="268438648" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="277" parent="globals/WatchFace1View" pc="268438683" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="280" parent="globals/WatchFace1View" pc="268438734" symbol="onUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="287" parent="globals/WatchFace1View" pc="268438745" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="288" parent="globals/WatchFace1View" pc="268438749" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="289" parent="globals/WatchFace1View" pc="268438793" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="291" parent="globals/WatchFace1View" pc="268438869" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="292" parent="globals/WatchFace1View" pc="268438905" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="297" parent="globals/WatchFace1View" pc="268438948" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="301" parent="globals/WatchFace1View" pc="268438952" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="302" parent="globals/WatchFace1View" pc="268438964" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="305" parent="globals/WatchFace1View" pc="268438981" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="306" parent="globals/WatchFace1View" pc="268438998" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="307" parent="globals/WatchFace1View" pc="268439033" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="309" parent="globals/WatchFace1View" pc="268439071" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="310" parent="globals/WatchFace1View" pc="268439086" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="311" parent="globals/WatchFace1View" pc="268439123" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="312" parent="globals/WatchFace1View" pc="268439160" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="315" parent="globals/WatchFace1View" pc="268439204" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="316" parent="globals/WatchFace1View" pc="268439240" symbol="onPartialUpdate"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="322" parent="globals/WatchFace1View" pc="268439255" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="323" parent="globals/WatchFace1View" pc="268439259" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="324" parent="globals/WatchFace1View" pc="268439293" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="326" parent="globals/WatchFace1View" pc="268439327" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="327" parent="globals/WatchFace1View" pc="268439351" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="328" parent="globals/WatchFace1View" pc="268439374" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="331" parent="globals/WatchFace1View" pc="268439396" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="332" parent="globals/WatchFace1View" pc="268439419" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="335" parent="globals/WatchFace1View" pc="268439441" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="336" parent="globals/WatchFace1View" pc="268439464" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="339" parent="globals/WatchFace1View" pc="268439486" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="340" parent="globals/WatchFace1View" pc="268439509" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="344" parent="globals/WatchFace1View" pc="268439544" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="353" parent="globals/WatchFace1View" pc="268439572" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="354" parent="globals/WatchFace1View" pc="268439576" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="355" parent="globals/WatchFace1View" pc="268439589" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="359" parent="globals/WatchFace1View" pc="268439602" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="360" parent="globals/WatchFace1View" pc="268439612" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="361" parent="globals/WatchFace1View" pc="268439619" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="365" parent="globals/WatchFace1View" pc="268439646" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="366" parent="globals/WatchFace1View" pc="268439656" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="368" parent="globals/WatchFace1View" pc="268439663" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="371" parent="globals/WatchFace1View" pc="268439693" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="377" parent="globals/WatchFace1View" pc="268439724" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="378" parent="globals/WatchFace1View" pc="268439728" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="379" parent="globals/WatchFace1View" pc="268439738" symbol="onEnterSleep"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="384" parent="globals/WatchFace1View" pc="268439755" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="385" parent="globals/WatchFace1View" pc="268439759" symbol="onExitSleep"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="12" lineNum="389" parent="globals/WatchFace1View" pc="268439770" symbol="turnPartialUpdatesOff"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="12" lineNum="390" parent="globals/WatchFace1View" pc="268439774" symbol="turnPartialUpdatesOff"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="13" lineNum="11" parent="globals/WatchFace1View" pc="268440267" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="13" lineNum="11" parent="globals/WatchFace1View" pc="268440267" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="14" lineNum="400" parent="globals/AnalogDelegate" pc="268439785" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="14" lineNum="401" parent="globals/AnalogDelegate" pc="268439789" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="14" lineNum="402" parent="globals/AnalogDelegate" pc="268439807" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="411" parent="globals/AnalogDelegate" pc="268439818" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="412" parent="globals/AnalogDelegate" pc="268439822" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="413" parent="globals/AnalogDelegate" pc="268439852" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="414" parent="globals/AnalogDelegate" pc="268439882" symbol="onPowerBudgetExceeded"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="16" lineNum="395" parent="globals/AnalogDelegate" pc="268440248" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="16" lineNum="395" parent="globals/AnalogDelegate" pc="268440248" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="18" lineNum="7" parent="globals/WatchFace1App" pc="268439901" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="18" lineNum="8" parent="globals/WatchFace1App" pc="268439905" symbol="initialize"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="19" lineNum="12" parent="globals/WatchFace1App" pc="268439924" symbol="onStart"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="20" lineNum="16" parent="globals/WatchFace1App" pc="268439929" symbol="onStop"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="21" lineNum="20" parent="globals/WatchFace1App" pc="268439934" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="21" lineNum="21" parent="globals/WatchFace1App" pc="268439938" symbol="getInitialView"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="22" lineNum="5" parent="globals/WatchFace1App" pc="268440229" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="22" lineNum="5" parent="globals/WatchFace1App" pc="268440229" symbol="&lt;init&gt;"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="23" lineNum="26" parent="globals" pc="268439976" symbol="getApp"/>
-        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="23" lineNum="27" parent="globals" pc="268439988" symbol="getApp"/>
-        <entry filename="Rez" id="25" lineNum="2" parent="globals/Rez/Drawables" pc="268440223" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="26" lineNum="6" parent="globals/Rez/Fonts" pc="268440225" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="27" lineNum="11" parent="globals/Rez/JsonData" pc="268440227" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="28" lineNum="20" parent="globals/Rez/Layouts" pc="268440005" symbol="WatchFace"/>
-        <entry filename="Rez" id="28" lineNum="22" parent="globals/Rez/Layouts" pc="268440017" symbol="WatchFace"/>
-        <entry filename="Rez" id="28" lineNum="24" parent="globals/Rez/Layouts" pc="268440180" symbol="WatchFace"/>
-        <entry filename="Rez" id="29" lineNum="13" parent="globals/Rez/Layouts" pc="268440226" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="30" lineNum="29" parent="globals/Rez/Menus" pc="268440224" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="31" lineNum="31" parent="globals/Rez/Strings" pc="268440228" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268440199" symbol="&lt;init&gt;"/>
-        <entry filename="Rez" id="32" lineNum="1" parent="globals/Rez" pc="268440199" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="27" parent="globals/WatchFace1View" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="28" parent="globals/WatchFace1View" pc="268435460" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="29" parent="globals/WatchFace1View" pc="268435478" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="30" parent="globals/WatchFace1View" pc="268435507" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="31" parent="globals/WatchFace1View" pc="268435517" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="1" lineNum="33" parent="globals/WatchFace1View" pc="268435543" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="36" parent="globals/WatchFace1View" pc="268435556" symbol="setDefault"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="37" parent="globals/WatchFace1View" pc="268435560" symbol="setDefault"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="38" parent="globals/WatchFace1View" pc="268435573" symbol="setDefault"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="2" lineNum="39" parent="globals/WatchFace1View" pc="268435583" symbol="setDefault"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="44" parent="globals/WatchFace1View" pc="268435594" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="48" parent="globals/WatchFace1View" pc="268435598" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="59" parent="globals/WatchFace1View" pc="268435645" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="63" parent="globals/WatchFace1View" pc="268435660" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="79" parent="globals/WatchFace1View" pc="268435852" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="84" parent="globals/WatchFace1View" pc="268435949" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="3" lineNum="87" parent="globals/WatchFace1View" pc="268435958" symbol="onLayout"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="100" parent="globals/WatchFace1View" pc="268436023" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="102" parent="globals/WatchFace1View" pc="268436027" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="106" parent="globals/WatchFace1View" pc="268436219" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="107" parent="globals/WatchFace1View" pc="268436227" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="108" parent="globals/WatchFace1View" pc="268436246" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="111" parent="globals/WatchFace1View" pc="268436265" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="112" parent="globals/WatchFace1View" pc="268436283" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="113" parent="globals/WatchFace1View" pc="268436320" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="115" parent="globals/WatchFace1View" pc="268436357" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="4" lineNum="118" parent="globals/WatchFace1View" pc="268436419" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="123" parent="globals/WatchFace1View" pc="268436423" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="125" parent="globals/WatchFace1View" pc="268436427" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="126" parent="globals/WatchFace1View" pc="268436440" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="127" parent="globals/WatchFace1View" pc="268436453" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="129" parent="globals/WatchFace1View" pc="268436463" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="130" parent="globals/WatchFace1View" pc="268436470" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="133" parent="globals/WatchFace1View" pc="268436477" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="136" parent="globals/WatchFace1View" pc="268436501" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="138" parent="globals/WatchFace1View" pc="268436519" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="139" parent="globals/WatchFace1View" pc="268436560" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="141" parent="globals/WatchFace1View" pc="268436601" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="142" parent="globals/WatchFace1View" pc="268436648" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="143" parent="globals/WatchFace1View" pc="268436695" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="144" parent="globals/WatchFace1View" pc="268436745" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="146" parent="globals/WatchFace1View" pc="268436795" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="154" parent="globals/WatchFace1View" pc="268436840" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="156" parent="globals/WatchFace1View" pc="268436858" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="157" parent="globals/WatchFace1View" pc="268436899" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="159" parent="globals/WatchFace1View" pc="268436940" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="160" parent="globals/WatchFace1View" pc="268436987" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="161" parent="globals/WatchFace1View" pc="268437034" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="162" parent="globals/WatchFace1View" pc="268437084" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="5" lineNum="164" parent="globals/WatchFace1View" pc="268437134" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="169" parent="globals/WatchFace1View" pc="268437177" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="170" parent="globals/WatchFace1View" pc="268437181" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="171" parent="globals/WatchFace1View" pc="268437194" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="173" parent="globals/WatchFace1View" pc="268437207" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="174" parent="globals/WatchFace1View" pc="268437217" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="175" parent="globals/WatchFace1View" pc="268437224" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="176" parent="globals/WatchFace1View" pc="268437249" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="177" parent="globals/WatchFace1View" pc="268437285" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="179" parent="globals/WatchFace1View" pc="268437332" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="180" parent="globals/WatchFace1View" pc="268437343" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="181" parent="globals/WatchFace1View" pc="268437379" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="182" parent="globals/WatchFace1View" pc="268437432" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="6" lineNum="183" parent="globals/WatchFace1View" pc="268437479" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="191" parent="globals/WatchFace1View" pc="268437536" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="192" parent="globals/WatchFace1View" pc="268437540" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="193" parent="globals/WatchFace1View" pc="268437553" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="194" parent="globals/WatchFace1View" pc="268437570" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="197" parent="globals/WatchFace1View" pc="268437573" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="198" parent="globals/WatchFace1View" pc="268437583" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="199" parent="globals/WatchFace1View" pc="268437593" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="200" parent="globals/WatchFace1View" pc="268437600" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="203" parent="globals/WatchFace1View" pc="268437612" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="205" parent="globals/WatchFace1View" pc="268437628" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="208" parent="globals/WatchFace1View" pc="268437632" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="209" parent="globals/WatchFace1View" pc="268437645" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="212" parent="globals/WatchFace1View" pc="268437658" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="213" parent="globals/WatchFace1View" pc="268437694" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="216" parent="globals/WatchFace1View" pc="268437738" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="217" parent="globals/WatchFace1View" pc="268437774" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="218" parent="globals/WatchFace1View" pc="268437788" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="221" parent="globals/WatchFace1View" pc="268437802" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="222" parent="globals/WatchFace1View" pc="268437812" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="223" parent="globals/WatchFace1View" pc="268437846" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="227" parent="globals/WatchFace1View" pc="268437885" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="230" parent="globals/WatchFace1View" pc="268437921" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="231" parent="globals/WatchFace1View" pc="268437952" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="232" parent="globals/WatchFace1View" pc="268437962" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="234" parent="globals/WatchFace1View" pc="268437985" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="237" parent="globals/WatchFace1View" pc="268438033" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="238" parent="globals/WatchFace1View" pc="268438068" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="241" parent="globals/WatchFace1View" pc="268438116" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="242" parent="globals/WatchFace1View" pc="268438152" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="243" parent="globals/WatchFace1View" pc="268438185" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="244" parent="globals/WatchFace1View" pc="268438221" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="251" parent="globals/WatchFace1View" pc="268438254" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="252" parent="globals/WatchFace1View" pc="268438264" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="253" parent="globals/WatchFace1View" pc="268438281" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="256" parent="globals/WatchFace1View" pc="268438294" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="259" parent="globals/WatchFace1View" pc="268438327" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="263" parent="globals/WatchFace1View" pc="268438357" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="266" parent="globals/WatchFace1View" pc="268438371" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="267" parent="globals/WatchFace1View" pc="268438424" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="268" parent="globals/WatchFace1View" pc="268438460" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="270" parent="globals/WatchFace1View" pc="268438520" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="273" parent="globals/WatchFace1View" pc="268438531" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="274" parent="globals/WatchFace1View" pc="268438548" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="277" parent="globals/WatchFace1View" pc="268438559" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="278" parent="globals/WatchFace1View" pc="268438595" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="280" parent="globals/WatchFace1View" pc="268438630" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="7" lineNum="283" parent="globals/WatchFace1View" pc="268438681" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="290" parent="globals/WatchFace1View" pc="268438692" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="291" parent="globals/WatchFace1View" pc="268438696" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="292" parent="globals/WatchFace1View" pc="268438740" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="294" parent="globals/WatchFace1View" pc="268438816" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="8" lineNum="295" parent="globals/WatchFace1View" pc="268438852" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="300" parent="globals/WatchFace1View" pc="268438895" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="304" parent="globals/WatchFace1View" pc="268438899" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="305" parent="globals/WatchFace1View" pc="268438911" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="308" parent="globals/WatchFace1View" pc="268438928" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="309" parent="globals/WatchFace1View" pc="268438945" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="310" parent="globals/WatchFace1View" pc="268438980" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="312" parent="globals/WatchFace1View" pc="268439018" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="313" parent="globals/WatchFace1View" pc="268439033" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="314" parent="globals/WatchFace1View" pc="268439070" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="315" parent="globals/WatchFace1View" pc="268439107" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="318" parent="globals/WatchFace1View" pc="268439151" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="9" lineNum="319" parent="globals/WatchFace1View" pc="268439187" symbol="onPartialUpdate"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="325" parent="globals/WatchFace1View" pc="268439202" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="326" parent="globals/WatchFace1View" pc="268439206" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="327" parent="globals/WatchFace1View" pc="268439240" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="329" parent="globals/WatchFace1View" pc="268439274" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="330" parent="globals/WatchFace1View" pc="268439298" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="331" parent="globals/WatchFace1View" pc="268439321" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="334" parent="globals/WatchFace1View" pc="268439343" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="335" parent="globals/WatchFace1View" pc="268439366" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="338" parent="globals/WatchFace1View" pc="268439388" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="339" parent="globals/WatchFace1View" pc="268439411" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="342" parent="globals/WatchFace1View" pc="268439433" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="343" parent="globals/WatchFace1View" pc="268439456" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="10" lineNum="347" parent="globals/WatchFace1View" pc="268439491" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="356" parent="globals/WatchFace1View" pc="268439519" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="357" parent="globals/WatchFace1View" pc="268439523" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="358" parent="globals/WatchFace1View" pc="268439536" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="362" parent="globals/WatchFace1View" pc="268439549" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="363" parent="globals/WatchFace1View" pc="268439559" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="364" parent="globals/WatchFace1View" pc="268439566" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="368" parent="globals/WatchFace1View" pc="268439593" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="369" parent="globals/WatchFace1View" pc="268439603" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="371" parent="globals/WatchFace1View" pc="268439610" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="11" lineNum="374" parent="globals/WatchFace1View" pc="268439640" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="12" lineNum="380" parent="globals/WatchFace1View" pc="268439671" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="12" lineNum="381" parent="globals/WatchFace1View" pc="268439675" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="12" lineNum="382" parent="globals/WatchFace1View" pc="268439685" symbol="onEnterSleep"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="13" lineNum="387" parent="globals/WatchFace1View" pc="268439702" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="13" lineNum="388" parent="globals/WatchFace1View" pc="268439706" symbol="onExitSleep"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="14" lineNum="392" parent="globals/WatchFace1View" pc="268439717" symbol="turnPartialUpdatesOff"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="14" lineNum="393" parent="globals/WatchFace1View" pc="268439721" symbol="turnPartialUpdatesOff"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="11" parent="globals/WatchFace1View" pc="268440214" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="15" lineNum="11" parent="globals/WatchFace1View" pc="268440214" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="16" lineNum="403" parent="globals/AnalogDelegate" pc="268439732" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="16" lineNum="404" parent="globals/AnalogDelegate" pc="268439736" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="16" lineNum="405" parent="globals/AnalogDelegate" pc="268439754" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="17" lineNum="414" parent="globals/AnalogDelegate" pc="268439765" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="17" lineNum="415" parent="globals/AnalogDelegate" pc="268439769" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="17" lineNum="416" parent="globals/AnalogDelegate" pc="268439799" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="17" lineNum="417" parent="globals/AnalogDelegate" pc="268439829" symbol="onPowerBudgetExceeded"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="18" lineNum="398" parent="globals/AnalogDelegate" pc="268440195" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1View.mc" id="18" lineNum="398" parent="globals/AnalogDelegate" pc="268440195" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="20" lineNum="7" parent="globals/WatchFace1App" pc="268439848" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="20" lineNum="8" parent="globals/WatchFace1App" pc="268439852" symbol="initialize"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="21" lineNum="12" parent="globals/WatchFace1App" pc="268439871" symbol="onStart"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="22" lineNum="16" parent="globals/WatchFace1App" pc="268439876" symbol="onStop"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="23" lineNum="20" parent="globals/WatchFace1App" pc="268439881" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="23" lineNum="21" parent="globals/WatchFace1App" pc="268439885" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="24" lineNum="5" parent="globals/WatchFace1App" pc="268440176" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="24" lineNum="5" parent="globals/WatchFace1App" pc="268440176" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="25" lineNum="26" parent="globals" pc="268439923" symbol="getApp"/>
+        <entry filename="C:\\Users\\Verena\\Documents\\connectiq-sdk-manager-windows\\WatchFace1\\source\\WatchFace1App.mc" id="25" lineNum="27" parent="globals" pc="268439935" symbol="getApp"/>
+        <entry filename="Rez" id="27" lineNum="2" parent="globals/Rez/Drawables" pc="268440170" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="28" lineNum="6" parent="globals/Rez/Fonts" pc="268440172" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="29" lineNum="10" parent="globals/Rez/JsonData" pc="268440174" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="30" lineNum="19" parent="globals/Rez/Layouts" pc="268439952" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="21" parent="globals/Rez/Layouts" pc="268439964" symbol="WatchFace"/>
+        <entry filename="Rez" id="30" lineNum="23" parent="globals/Rez/Layouts" pc="268440127" symbol="WatchFace"/>
+        <entry filename="Rez" id="31" lineNum="12" parent="globals/Rez/Layouts" pc="268440173" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="32" lineNum="28" parent="globals/Rez/Menus" pc="268440171" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="33" lineNum="30" parent="globals/Rez/Strings" pc="268440175" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="1" parent="globals/Rez" pc="268440146" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="34" lineNum="1" parent="globals/Rez" pc="268440146" symbol="&lt;init&gt;"/>
     </pcToLineNum>
     <symbolTable>
         <entry id="8388639" module="true" symbol="Graphics"/>
-        <entry id="30" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
+        <entry id="34" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;"/>
         <entry id="8390101" object="true" symbol="BufferedBitmap"/>
         <entry id="10" object="true" symbol="AnalogDelegate"/>
         <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry field="true" id="29" symbol="showAllNumbers"/>
         <entry id="4" module="true" symbol="globals/Rez/Menus"/>
-        <entry id="28" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry id="31" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;"/>
+        <entry field="true" id="28" symbol="showTwelve"/>
         <entry id="8390098" method="true" symbol="onPowerBudgetExceeded"/>
-        <entry field="true" id="19" symbol="&lt;globals/WatchFace1View/&lt;&gt;_font&gt;"/>
-        <entry field="true" id="23" symbol="&lt;globals/WatchFace1View/&lt;&gt;_offscreenBuffer&gt;"/>
+        <entry field="true" id="18" symbol="&lt;globals/WatchFace1View/&lt;&gt;_font&gt;"/>
+        <entry field="true" id="22" symbol="&lt;globals/WatchFace1View/&lt;&gt;_offscreenBuffer&gt;"/>
         <entry id="8388924" module="true" symbol="Gregorian"/>
-        <entry id="31" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
+        <entry id="35" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;"/>
         <entry field="true" id="8388611" module="true" symbol="Toybox"/>
-        <entry field="true" id="22" symbol="&lt;globals/WatchFace1View/&lt;&gt;_dndIcon&gt;"/>
-        <entry field="true" id="26" symbol="&lt;globals/WatchFace1View/&lt;&gt;_fullScreenRefresh&gt;"/>
-        <entry field="true" id="17" symbol="AppName"/>
+        <entry field="true" id="21" symbol="&lt;globals/WatchFace1View/&lt;&gt;_dndIcon&gt;"/>
+        <entry field="true" id="27" symbol="markCount"/>
+        <entry field="true" id="25" symbol="&lt;globals/WatchFace1View/&lt;&gt;_fullScreenRefresh&gt;"/>
+        <entry field="true" id="16" symbol="AppName"/>
         <entry id="8" module="true" symbol="globals/Rez/Strings"/>
         <entry id="8388772" module="true" object="true" symbol="Fonts"/>
         <entry id="8388648" module="true" symbol="WatchUi"/>
@@ -214,7 +221,7 @@
         <entry id="8389375" method="true" object="true" symbol="WatchFace"/>
         <entry field="true" id="8389065" symbol="locY"/>
         <entry field="true" id="8389064" symbol="locX"/>
-        <entry id="32" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
+        <entry id="36" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;"/>
         <entry id="8388771" module="true" object="true" symbol="Drawables"/>
         <entry id="8389348" symbol="font"/>
         <entry field="true" id="8389067" symbol="height"/>
@@ -227,121 +234,124 @@
         <entry id="8389376" method="true" symbol="onEnterSleep"/>
         <entry field="true" id="8389063" symbol="identifier"/>
         <entry id="8389349" symbol="justification"/>
-        <entry field="true" id="16" symbol="id_basic_titlefont"/>
         <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
-        <entry field="true" id="18" symbol="&lt;globals/AnalogDelegate/&lt;&gt;_view&gt;"/>
+        <entry field="true" id="17" symbol="&lt;globals/AnalogDelegate/&lt;&gt;_view&gt;"/>
         <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
-        <entry field="true" id="25" symbol="&lt;globals/WatchFace1View/&lt;&gt;_screenCenterPoint&gt;"/>
+        <entry field="true" id="24" symbol="&lt;globals/WatchFace1View/&lt;&gt;_screenCenterPoint&gt;"/>
         <entry id="8389377" method="true" symbol="onExitSleep"/>
+        <entry id="33" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;"/>
         <entry id="8388644" module="true" symbol="System"/>
         <entry id="8388645" module="true" symbol="Time"/>
         <entry id="8388769" module="true" object="true" symbol="Rez"/>
-        <entry field="true" id="21" symbol="&lt;globals/WatchFace1View/&lt;&gt;_screenShape&gt;"/>
+        <entry field="true" id="20" symbol="&lt;globals/WatchFace1View/&lt;&gt;_screenShape&gt;"/>
         <entry field="true" id="15" symbol="id_font_black_diamond"/>
         <entry id="8388640" module="true" symbol="Lang"/>
         <entry id="8390088" module="true" object="true" symbol="JsonData"/>
         <entry field="true" id="14" symbol="LauncherIcon"/>
         <entry id="8388610" symbol="statics"/>
         <entry id="8389350" module="true" symbol="globals"/>
-        <entry id="33" method="true" symbol="turnPartialUpdatesOff"/>
+        <entry id="37" method="true" symbol="turnPartialUpdatesOff"/>
         <entry id="8388770" module="true" object="true" symbol="Strings"/>
         <entry id="9" object="true" symbol="WatchFace1View"/>
+        <entry id="30" method="true" symbol="setDefault"/>
         <entry id="8388702" method="true" symbol="initialize"/>
         <entry id="8389279" method="true" symbol="onStart"/>
-        <entry field="true" id="20" symbol="&lt;globals/WatchFace1View/&lt;&gt;_isAwake&gt;"/>
+        <entry field="true" id="19" symbol="&lt;globals/WatchFace1View/&lt;&gt;_isAwake&gt;"/>
         <entry id="8388641" module="true" symbol="Math"/>
-        <entry id="29" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
+        <entry id="32" method="true" symbol="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;"/>
         <entry id="8389280" method="true" symbol="getInitialView"/>
         <entry id="8389281" method="true" symbol="onStop"/>
         <entry id="8389347" symbol="color"/>
-        <entry field="true" id="27" symbol="&lt;globals/WatchFace1View/&lt;&gt;_partialUpdatesAllowed&gt;"/>
-        <entry field="true" id="24" symbol="&lt;globals/WatchFace1View/&lt;&gt;_dateBuffer&gt;"/>
+        <entry field="true" id="26" symbol="&lt;globals/WatchFace1View/&lt;&gt;_partialUpdatesAllowed&gt;"/>
+        <entry field="true" id="23" symbol="&lt;globals/WatchFace1View/&lt;&gt;_dateBuffer&gt;"/>
         <entry id="12" module="true" symbol="Layouts"/>
         <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
         <entry id="8388635" module="true" symbol="Application"/>
         <entry id="8389660" symbol="palette"/>
     </symbolTable>
     <localVars>
-        <entry arg="true" endPc="268435952" name="dc" stackId="1" startPc="268435544"/>
-        <entry endPc="268436335" name="x" stackId="11" startPc="268436213"/>
-        <entry endPc="268436335" name="y" stackId="12" startPc="268436213"/>
-        <entry endPc="268436348" name="i" stackId="10" startPc="268436213"/>
-        <entry endPc="268436351" name="result" stackId="7" startPc="268435957"/>
-        <entry endPc="268436351" name="sin" stackId="9" startPc="268435957"/>
-        <entry endPc="268436351" name="cos" stackId="8" startPc="268435957"/>
-        <entry endPc="268436351" name="coords" stackId="6" startPc="268435957"/>
-        <entry arg="true" endPc="268436352" name="handLength" stackId="3" startPc="268435953"/>
-        <entry arg="true" endPc="268436352" name="tailLength" stackId="4" startPc="268435953"/>
-        <entry arg="true" endPc="268436352" name="width" stackId="5" startPc="268435953"/>
-        <entry arg="true" endPc="268436352" name="angle" stackId="2" startPc="268435953"/>
-        <entry arg="true" endPc="268436352" name="centerPoint" stackId="1" startPc="268435953"/>
-        <entry endPc="268436763" name="eY" stackId="11" startPc="268436501"/>
-        <entry endPc="268436763" name="eX" stackId="13" startPc="268436501"/>
-        <entry endPc="268436763" name="sY" stackId="10" startPc="268436501"/>
-        <entry endPc="268436763" name="sX" stackId="12" startPc="268436501"/>
-        <entry endPc="268436789" name="i" stackId="9" startPc="268436501"/>
-        <entry endPc="268436789" name="innerRad" stackId="8" startPc="268436431"/>
-        <entry endPc="268436789" name="outerRad" stackId="7" startPc="268436431"/>
-        <entry endPc="268437106" name="eY" stackId="20" startPc="268436811"/>
-        <entry endPc="268437106" name="eX" stackId="19" startPc="268436811"/>
-        <entry endPc="268437106" name="xOffset" stackId="15" startPc="268436811"/>
-        <entry endPc="268437106" name="sY" stackId="18" startPc="268436811"/>
-        <entry endPc="268437106" name="sX" stackId="17" startPc="268436811"/>
-        <entry endPc="268437106" name="yOffset" stackId="16" startPc="268436811"/>
-        <entry endPc="268437119" name="i" stackId="14" startPc="268436811"/>
-        <entry endPc="268437119" name="faceRadius" stackId="4" startPc="268436357"/>
-        <entry endPc="268437119" name="height" stackId="3" startPc="268436357"/>
-        <entry endPc="268437119" name="markLength" stackId="6" startPc="268436357"/>
-        <entry endPc="268437119" name="border" stackId="5" startPc="268436357"/>
-        <entry endPc="268437119" name="width" stackId="2" startPc="268436357"/>
-        <entry arg="true" endPc="268437120" name="dc" stackId="1" startPc="268436353"/>
-        <entry endPc="268438406" name="dateDc" stackId="13" startPc="268438334"/>
-        <entry endPc="268438730" name="secondHand" stackId="15" startPc="268438612"/>
-        <entry endPc="268438743" name="screenWidth" stackId="2" startPc="268437125"/>
-        <entry endPc="268438743" name="width" stackId="6" startPc="268437125"/>
-        <entry endPc="268438743" name="font" stackId="11" startPc="268437125"/>
-        <entry endPc="268438743" name="minuteHandAngle" stackId="10" startPc="268437125"/>
-        <entry endPc="268438743" name="clockTime" stackId="3" startPc="268437125"/>
-        <entry endPc="268438743" name="dndIcon" stackId="8" startPc="268437125"/>
-        <entry endPc="268438743" name="dataString" stackId="14" startPc="268437125"/>
-        <entry endPc="268438743" name="dateBuffer" stackId="12" startPc="268437125"/>
-        <entry endPc="268438743" name="targetDc" stackId="4" startPc="268437125"/>
-        <entry endPc="268438743" name="offscreenBuffer" stackId="5" startPc="268437125"/>
-        <entry endPc="268438743" name="hourHandAngle" stackId="9" startPc="268437125"/>
-        <entry endPc="268438743" name="height" stackId="7" startPc="268437125"/>
-        <entry arg="true" endPc="268438744" name="dc" stackId="1" startPc="268437121"/>
-        <entry endPc="268438946" name="dateStr" stackId="5" startPc="268438749"/>
-        <entry endPc="268438946" name="info" stackId="4" startPc="268438749"/>
-        <entry arg="true" endPc="268438947" name="x" stackId="2" startPc="268438745"/>
-        <entry arg="true" endPc="268438947" name="dc" stackId="1" startPc="268438745"/>
-        <entry arg="true" endPc="268438947" name="y" stackId="3" startPc="268438745"/>
-        <entry endPc="268439253" name="bBoxHeight" stackId="7" startPc="268438952"/>
-        <entry endPc="268439253" name="secondHand" stackId="3" startPc="268438952"/>
-        <entry endPc="268439253" name="secondHandPoints" stackId="4" startPc="268438952"/>
-        <entry endPc="268439253" name="bBoxWidth" stackId="6" startPc="268438952"/>
-        <entry endPc="268439253" name="curClip" stackId="5" startPc="268438952"/>
-        <entry endPc="268439253" name="clockTime" stackId="2" startPc="268438952"/>
-        <entry arg="true" endPc="268439254" name="dc" stackId="1" startPc="268438948"/>
-        <entry endPc="268439543" name="i" stackId="4" startPc="268439351"/>
-        <entry endPc="268439570" name="max" stackId="3" startPc="268439259"/>
-        <entry endPc="268439570" name="min" stackId="2" startPc="268439259"/>
-        <entry arg="true" endPc="268439571" name="points" stackId="1" startPc="268439255"/>
-        <entry endPc="268439722" name="height" stackId="3" startPc="268439576"/>
-        <entry endPc="268439722" name="dateBuffer" stackId="5" startPc="268439576"/>
-        <entry endPc="268439722" name="width" stackId="2" startPc="268439576"/>
-        <entry endPc="268439722" name="offscreenBuffer" stackId="4" startPc="268439576"/>
-        <entry arg="true" endPc="268439723" name="dc" stackId="1" startPc="268439572"/>
-        <entry arg="true" endPc="268439817" name="view" stackId="1" startPc="268439785"/>
-        <entry arg="true" endPc="268439900" name="powerInfo" stackId="1" startPc="268439818"/>
-        <entry arg="true" endPc="268439928" name="state" stackId="1" startPc="268439924"/>
-        <entry arg="true" endPc="268439933" name="state" stackId="1" startPc="268439929"/>
-        <entry endPc="268440196" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268440017"/>
-        <entry arg="true" endPc="268440197" name="dc" stackId="1" startPc="268440005"/>
+        <entry arg="true" endPc="268436022" name="dc" stackId="1" startPc="268435594"/>
+        <entry endPc="268436405" name="x" stackId="11" startPc="268436283"/>
+        <entry endPc="268436405" name="y" stackId="12" startPc="268436283"/>
+        <entry endPc="268436418" name="i" stackId="10" startPc="268436283"/>
+        <entry endPc="268436421" name="result" stackId="7" startPc="268436027"/>
+        <entry endPc="268436421" name="sin" stackId="9" startPc="268436027"/>
+        <entry endPc="268436421" name="cos" stackId="8" startPc="268436027"/>
+        <entry endPc="268436421" name="coords" stackId="6" startPc="268436027"/>
+        <entry arg="true" endPc="268436422" name="handLength" stackId="3" startPc="268436023"/>
+        <entry arg="true" endPc="268436422" name="tailLength" stackId="4" startPc="268436023"/>
+        <entry arg="true" endPc="268436422" name="width" stackId="5" startPc="268436023"/>
+        <entry arg="true" endPc="268436422" name="angle" stackId="2" startPc="268436023"/>
+        <entry arg="true" endPc="268436422" name="centerPoint" stackId="1" startPc="268436023"/>
+        <entry endPc="268436814" name="eY" stackId="13" startPc="268436519"/>
+        <entry endPc="268436814" name="eX" stackId="12" startPc="268436519"/>
+        <entry endPc="268436814" name="xOffset" stackId="8" startPc="268436519"/>
+        <entry endPc="268436814" name="sY" stackId="11" startPc="268436519"/>
+        <entry endPc="268436814" name="sX" stackId="10" startPc="268436519"/>
+        <entry endPc="268436814" name="yOffset" stackId="9" startPc="268436519"/>
+        <entry endPc="268436836" name="i" stackId="7" startPc="268436519"/>
+        <entry endPc="268437153" name="eY" stackId="20" startPc="268436858"/>
+        <entry endPc="268437153" name="eX" stackId="19" startPc="268436858"/>
+        <entry endPc="268437153" name="xOffset" stackId="15" startPc="268436858"/>
+        <entry endPc="268437153" name="sY" stackId="18" startPc="268436858"/>
+        <entry endPc="268437153" name="sX" stackId="17" startPc="268436858"/>
+        <entry endPc="268437153" name="yOffset" stackId="16" startPc="268436858"/>
+        <entry endPc="268437175" name="i" stackId="14" startPc="268436858"/>
+        <entry endPc="268437175" name="faceRadius" stackId="4" startPc="268436427"/>
+        <entry endPc="268437175" name="height" stackId="3" startPc="268436427"/>
+        <entry endPc="268437175" name="markLength" stackId="6" startPc="268436427"/>
+        <entry endPc="268437175" name="border" stackId="5" startPc="268436427"/>
+        <entry endPc="268437175" name="width" stackId="2" startPc="268436427"/>
+        <entry arg="true" endPc="268437176" name="dc" stackId="1" startPc="268436423"/>
+        <entry endPc="268437534" name="height" stackId="3" startPc="268437181"/>
+        <entry endPc="268437534" name="font" stackId="4" startPc="268437181"/>
+        <entry endPc="268437534" name="width" stackId="2" startPc="268437181"/>
+        <entry arg="true" endPc="268437535" name="dc" stackId="1" startPc="268437177"/>
+        <entry endPc="268438353" name="dateDc" stackId="12" startPc="268438281"/>
+        <entry endPc="268438677" name="secondHand" stackId="14" startPc="268438559"/>
+        <entry endPc="268438690" name="screenWidth" stackId="2" startPc="268437540"/>
+        <entry endPc="268438690" name="width" stackId="6" startPc="268437540"/>
+        <entry endPc="268438690" name="minuteHandAngle" stackId="10" startPc="268437540"/>
+        <entry endPc="268438690" name="clockTime" stackId="3" startPc="268437540"/>
+        <entry endPc="268438690" name="dndIcon" stackId="8" startPc="268437540"/>
+        <entry endPc="268438690" name="dataString" stackId="13" startPc="268437540"/>
+        <entry endPc="268438690" name="dateBuffer" stackId="11" startPc="268437540"/>
+        <entry endPc="268438690" name="targetDc" stackId="4" startPc="268437540"/>
+        <entry endPc="268438690" name="offscreenBuffer" stackId="5" startPc="268437540"/>
+        <entry endPc="268438690" name="hourHandAngle" stackId="9" startPc="268437540"/>
+        <entry endPc="268438690" name="height" stackId="7" startPc="268437540"/>
+        <entry arg="true" endPc="268438691" name="dc" stackId="1" startPc="268437536"/>
+        <entry endPc="268438893" name="dateStr" stackId="5" startPc="268438696"/>
+        <entry endPc="268438893" name="info" stackId="4" startPc="268438696"/>
+        <entry arg="true" endPc="268438894" name="x" stackId="2" startPc="268438692"/>
+        <entry arg="true" endPc="268438894" name="dc" stackId="1" startPc="268438692"/>
+        <entry arg="true" endPc="268438894" name="y" stackId="3" startPc="268438692"/>
+        <entry endPc="268439200" name="bBoxHeight" stackId="7" startPc="268438899"/>
+        <entry endPc="268439200" name="secondHand" stackId="3" startPc="268438899"/>
+        <entry endPc="268439200" name="secondHandPoints" stackId="4" startPc="268438899"/>
+        <entry endPc="268439200" name="bBoxWidth" stackId="6" startPc="268438899"/>
+        <entry endPc="268439200" name="curClip" stackId="5" startPc="268438899"/>
+        <entry endPc="268439200" name="clockTime" stackId="2" startPc="268438899"/>
+        <entry arg="true" endPc="268439201" name="dc" stackId="1" startPc="268438895"/>
+        <entry endPc="268439490" name="i" stackId="4" startPc="268439298"/>
+        <entry endPc="268439517" name="max" stackId="3" startPc="268439206"/>
+        <entry endPc="268439517" name="min" stackId="2" startPc="268439206"/>
+        <entry arg="true" endPc="268439518" name="points" stackId="1" startPc="268439202"/>
+        <entry endPc="268439669" name="height" stackId="3" startPc="268439523"/>
+        <entry endPc="268439669" name="dateBuffer" stackId="5" startPc="268439523"/>
+        <entry endPc="268439669" name="width" stackId="2" startPc="268439523"/>
+        <entry endPc="268439669" name="offscreenBuffer" stackId="4" startPc="268439523"/>
+        <entry arg="true" endPc="268439670" name="dc" stackId="1" startPc="268439519"/>
+        <entry arg="true" endPc="268439764" name="view" stackId="1" startPc="268439732"/>
+        <entry arg="true" endPc="268439847" name="powerInfo" stackId="1" startPc="268439765"/>
+        <entry arg="true" endPc="268439875" name="state" stackId="1" startPc="268439871"/>
+        <entry arg="true" endPc="268439880" name="state" stackId="1" startPc="268439876"/>
+        <entry endPc="268440143" name="rez_cmp_local_text_TimeLabel" stackId="2" startPc="268439964"/>
+        <entry arg="true" endPc="268440144" name="dc" stackId="1" startPc="268439952"/>
     </localVars>
     <annotations>
         <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
         <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_font_black_diamond"/>
-        <annotationEntry annotation="initialized" class="Fonts" module="globals/Rez" symbol="id_basic_titlefont"/>
         <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
     </annotations>
     <dataEntryOffsetMappings>
@@ -350,22 +360,25 @@
         <dataEntry label="globals/Rez/Drawables" offset="245" parentId="Rez" symbolId="Drawables" type="module"/>
         <dataEntry label="globals/Rez/Menus" offset="284" parentId="Rez" symbolId="Menus" type="module"/>
         <dataEntry label="globals/Rez/Fonts" offset="315" parentId="Rez" symbolId="Fonts" type="module"/>
-        <dataEntry label="globals/Rez/Layouts" offset="362" parentId="Rez" symbolId="Layouts" type="module"/>
-        <dataEntry label="globals/Rez/JsonData" offset="401" parentId="Rez" symbolId="JsonData" type="module"/>
-        <dataEntry label="globals/Rez/Strings" offset="432" parentId="Rez" symbolId="Strings" type="module"/>
-        <dataEntry label="globals/WatchFace1App" offset="471" parentId="globals" symbolId="WatchFace1App" type="class"/>
-        <dataEntry label="globals/AnalogDelegate" offset="542" parentId="globals" symbolId="AnalogDelegate" type="class"/>
-        <dataEntry label="globals/WatchFace1View" offset="605" parentId="globals" symbolId="WatchFace1View" type="class"/>
+        <dataEntry label="globals/Rez/Layouts" offset="354" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="393" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="424" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/WatchFace1App" offset="463" parentId="globals" symbolId="WatchFace1App" type="class"/>
+        <dataEntry label="globals/AnalogDelegate" offset="534" parentId="globals" symbolId="AnalogDelegate" type="class"/>
+        <dataEntry label="globals/WatchFace1View" offset="597" parentId="globals" symbolId="WatchFace1View" type="class"/>
     </dataEntryOffsetMappings>
     <functions>
-        <functionEntry accessMode="public" endPc="268435543" name="initialize" parent="WatchFace1View" startPc="268435456">
+        <functionEntry accessMode="public" endPc="268435555" name="initialize" parent="WatchFace1View" startPc="268435456">
             <documentation><![CDATA[<div class="description"> Initialize variables for this view<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268435952" name="onLayout" parent="WatchFace1View" startPc="268435544">
+        <functionEntry accessMode="public" endPc="268435593" name="setDefault" parent="WatchFace1View" startPc="268435556">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268436022" name="onLayout" parent="WatchFace1View" startPc="268435594">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Configure the layout of the watchface for this device<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268436352" name="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;" parent="WatchFace1View" startPc="268435953">
+        <functionEntry accessMode="private" endPc="268436422" name="&lt;globals/WatchFace1View/&lt;&gt;generateHandCoordinates&gt;" parent="WatchFace1View" startPc="268436023">
             <param id="centerPoint"/>
             <param id="angle"/>
             <param id="handLength"/>
@@ -373,98 +386,102 @@
             <param id="width"/>
             <documentation><![CDATA[<div class="description"> This function is used to generate the coordinates of the 4 corners of the polygon<br/> used to draw a watch hand. The coordinates are generated with specified length,<br/> tail length, and width and rotated around the center point at the provided angle.<br/> 0 degrees is at the 12 o'clock position, and increases in the clockwise direction.<br/> <div class="param"> centerPoint The center of the clock</div><br/> <div class="param"> angle Angle of the hand in radians</div><br/> <div class="param"> handLength The length of the hand from the center to point</div><br/> <div class="param"> tailLength The length of the tail of the hand</div><br/> <div class="param"> width The width of the watch hand</div><br/> <div class="returns">Returns  The coordinates of the watch hand</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268437120" name="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;" parent="WatchFace1View" startPc="268436353">
+        <functionEntry accessMode="private" endPc="268437176" name="&lt;globals/WatchFace1View/&lt;&gt;drawHashMarks&gt;" parent="WatchFace1View" startPc="268436423">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Draws the clock tick marks around the outside edges of the screen.<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268438744" name="onUpdate" parent="WatchFace1View" startPc="268437121">
+        <functionEntry accessMode="private" endPc="268437535" name="&lt;globals/WatchFace1View/&lt;&gt;drawNumberLabels&gt;" parent="WatchFace1View" startPc="268437177">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" endPc="268438691" name="onUpdate" parent="WatchFace1View" startPc="268437536">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Handle the update event<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268438947" name="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;" parent="WatchFace1View" startPc="268438745">
+        <functionEntry accessMode="private" endPc="268438894" name="&lt;globals/WatchFace1View/&lt;&gt;drawDateString&gt;" parent="WatchFace1View" startPc="268438692">
             <param id="dc"/>
             <param id="x"/>
             <param id="y"/>
             <documentation><![CDATA[<div class="description"> Draw the date string into the provided buffer at the specified location<br/> <div class="param"> dc Device context</div><br/> <div class="param"> x The x location of the text</div><br/> <div class="param"> y The y location of the text</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439254" name="onPartialUpdate" parent="WatchFace1View" startPc="268438948">
+        <functionEntry accessMode="public" endPc="268439201" name="onPartialUpdate" parent="WatchFace1View" startPc="268438895">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Handle the partial update event<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268439571" name="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;" parent="WatchFace1View" startPc="268439255">
+        <functionEntry accessMode="private" endPc="268439518" name="&lt;globals/WatchFace1View/&lt;&gt;getBoundingBox&gt;" parent="WatchFace1View" startPc="268439202">
             <param id="points"/>
             <documentation><![CDATA[<div class="description"> Compute a bounding box from the passed in points<br/> <div class="param"> points Points to include in bounding box</div><br/> <div class="returns">Returns  The bounding box points</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="private" endPc="268439723" name="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;" parent="WatchFace1View" startPc="268439572">
+        <functionEntry accessMode="private" endPc="268439670" name="&lt;globals/WatchFace1View/&lt;&gt;drawBackground&gt;" parent="WatchFace1View" startPc="268439519">
             <param id="dc"/>
             <documentation><![CDATA[<div class="description"> Draw the watch face background<br/> onUpdate uses this method to transfer newly rendered Buffered Bitmaps<br/> to the main display.<br/> onPartialUpdate uses this to blank the second hand from the previous<br/> second before outputting the new one.<br/> <div class="param"> dc Device context</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439754" name="onEnterSleep" parent="WatchFace1View" startPc="268439724">
+        <functionEntry accessMode="public" endPc="268439701" name="onEnterSleep" parent="WatchFace1View" startPc="268439671">
             <documentation><![CDATA[<div class="description"> This method is called when the device re-enters sleep mode.<br/> Set the isAwake flag to let onUpdate know it should stop rendering the second hand.<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439769" name="onExitSleep" parent="WatchFace1View" startPc="268439755">
+        <functionEntry accessMode="public" endPc="268439716" name="onExitSleep" parent="WatchFace1View" startPc="268439702">
             <documentation><![CDATA[<div class="description"> This method is called when the device exits sleep mode.<br/> Set the isAwake flag to let onUpdate know it should render the second hand.<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439784" name="turnPartialUpdatesOff" parent="WatchFace1View" startPc="268439770">
+        <functionEntry accessMode="public" endPc="268439731" name="turnPartialUpdatesOff" parent="WatchFace1View" startPc="268439717">
             <documentation><![CDATA[<div class="description"> Turn off partial updates<br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440285" name="&lt;init&gt;" parent="WatchFace1View" startPc="268440267">
+        <functionEntry accessMode="protected" endPc="268440232" name="&lt;init&gt;" parent="WatchFace1View" startPc="268440214">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439817" name="initialize" parent="AnalogDelegate" startPc="268439785">
+        <functionEntry accessMode="public" endPc="268439764" name="initialize" parent="AnalogDelegate" startPc="268439732">
             <param id="view"/>
             <documentation><![CDATA[<div class="description"> Constructor<br/> <div class="param"> view The analog view</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439900" name="onPowerBudgetExceeded" parent="AnalogDelegate" startPc="268439818">
+        <functionEntry accessMode="public" endPc="268439847" name="onPowerBudgetExceeded" parent="AnalogDelegate" startPc="268439765">
             <param id="powerInfo"/>
             <documentation><![CDATA[<div class="description"> The onPowerBudgetExceeded callback is called by the system if the<br/> onPartialUpdate method exceeds the allowed power budget. If this occurs,<br/> the system will stop invoking onPartialUpdate each second, so we notify the<br/> view here to let the rendering methods know they should not be rendering a<br/> second hand.<br/> <div class="param"> powerInfo Information about the power budget</div><br/></div>]]></documentation>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440266" name="&lt;init&gt;" parent="AnalogDelegate" startPc="268440248">
+        <functionEntry accessMode="protected" endPc="268440213" name="&lt;init&gt;" parent="AnalogDelegate" startPc="268440195">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439923" name="initialize" parent="WatchFace1App" startPc="268439901">
+        <functionEntry accessMode="public" endPc="268439870" name="initialize" parent="WatchFace1App" startPc="268439848">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439928" name="onStart" parent="WatchFace1App" startPc="268439924">
+        <functionEntry accessMode="public" endPc="268439875" name="onStart" parent="WatchFace1App" startPc="268439871">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439933" name="onStop" parent="WatchFace1App" startPc="268439929">
+        <functionEntry accessMode="public" endPc="268439880" name="onStop" parent="WatchFace1App" startPc="268439876">
             <param id="state"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268439975" name="getInitialView" parent="WatchFace1App" startPc="268439934">
+        <functionEntry accessMode="public" endPc="268439922" name="getInitialView" parent="WatchFace1App" startPc="268439881">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440247" name="&lt;init&gt;" parent="WatchFace1App" startPc="268440229">
+        <functionEntry accessMode="protected" endPc="268440194" name="&lt;init&gt;" parent="WatchFace1App" startPc="268440176">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440004" name="getApp" startPc="268439976">
+        <functionEntry accessMode="public" endPc="268439951" name="getApp" startPc="268439923">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440223" name="&lt;init&gt;" parent="Drawables" startPc="268440223">
+        <functionEntry accessMode="protected" endPc="268440170" name="&lt;init&gt;" parent="Drawables" startPc="268440170">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440225" name="&lt;init&gt;" parent="Fonts" startPc="268440225">
+        <functionEntry accessMode="protected" endPc="268440172" name="&lt;init&gt;" parent="Fonts" startPc="268440172">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440227" name="&lt;init&gt;" parent="JsonData" startPc="268440227">
+        <functionEntry accessMode="protected" endPc="268440174" name="&lt;init&gt;" parent="JsonData" startPc="268440174">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="public" endPc="268440197" name="WatchFace" parent="Layouts" startPc="268440005">
+        <functionEntry accessMode="public" endPc="268440144" name="WatchFace" parent="Layouts" startPc="268439952">
             <param id="dc"/>
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440226" name="&lt;init&gt;" parent="Layouts" startPc="268440226">
+        <functionEntry accessMode="protected" endPc="268440173" name="&lt;init&gt;" parent="Layouts" startPc="268440173">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440224" name="&lt;init&gt;" parent="Menus" startPc="268440224">
+        <functionEntry accessMode="protected" endPc="268440171" name="&lt;init&gt;" parent="Menus" startPc="268440171">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440228" name="&lt;init&gt;" parent="Strings" startPc="268440228">
+        <functionEntry accessMode="protected" endPc="268440175" name="&lt;init&gt;" parent="Strings" startPc="268440175">
             <documentation/>
         </functionEntry>
-        <functionEntry accessMode="protected" endPc="268440222" name="&lt;init&gt;" parent="Rez" startPc="268440199">
+        <functionEntry accessMode="protected" endPc="268440169" name="&lt;init&gt;" parent="Rez" startPc="268440146">
             <documentation/>
         </functionEntry>
     </functions>
