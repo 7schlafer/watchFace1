@@ -19,6 +19,9 @@ class WatchFace1View extends WatchUi.WatchFace {
     private var _fullScreenRefresh as Boolean;
     private var _partialUpdatesAllowed as Boolean;
 
+    private var _width as Number;
+    private var _height as Number;
+
     public var markCount as Number;
     public var showTwelve as Boolean;
     public var showAllNumbers as Boolean;
@@ -46,6 +49,8 @@ class WatchFace1View extends WatchUi.WatchFace {
         // Load the custom font we use for drawing the 3, 6, 9, and 12 on the watchface.
         //_font = WatchUi.loadResource($.Rez.Fonts.id_basic_titlefont) as FontResource;
         _font = WatchUi.loadResource($.Rez.Fonts.id_font_black_diamond) as FontResource;
+        _width = dc.getWidth();
+        _height = dc.getHeight();
 
         // If this device supports the Do Not Disturb feature,
         // load the associated Icon into memory.
@@ -121,45 +126,39 @@ class WatchFace1View extends WatchUi.WatchFace {
     //! Draws the clock tick marks around the outside edges of the screen.
     //! @param dc Device context
     private function drawHashMarks(dc as Dc) as Void {
-        
-        var width = dc.getWidth();
-        var height = dc.getHeight();
-        var faceRadius = width / 2;
-        // leave space for progress bar
-        var border = 7;
-        var markLength = 15;
+        var radHor = _width / 2;
+        var radVer = _height / 2;
+        var markLength = _width / 20;
 
-        // Drawing hashmarks differently depending on screen geometry did not work in garmin example.
+        // Drawing hashmarks differently depending on screen geometry
         if (System.SCREEN_SHAPE_ROUND == _screenShape) {            
             // Marks can be placed every 1/12 of the circle. Iterating around the clock in units of pi/6. 
             // Intervals depend on number of marks specified.
             for (var i = 0; i < 12; i += (12 / markCount)) {
-                // Leaving space for a progress bar to go around the clock
-                var xOffset = border * Math.cos(i * Math.PI / 6);
-                var yOffset = border * Math.sin(i * Math.PI / 6);
-
-                var sX = faceRadius + faceRadius * Math.cos(i * Math.PI / 6) - xOffset;
-                var sY = faceRadius + faceRadius * Math.sin(i * Math.PI / 6) - yOffset;
-                var eX = faceRadius + (faceRadius - markLength) * Math.cos(i * Math.PI / 6) - xOffset;
-                var eY = faceRadius + (faceRadius - markLength) * Math.sin(i * Math.PI / 6) - yOffset;
+                var sX = radHor + radHor * Math.cos(i * Math.PI / 6);
+                var sY = radVer + radVer * Math.sin(i * Math.PI / 6);
+                var eX = radHor + (radHor - markLength) * Math.cos(i * Math.PI / 6);
+                var eY = radVer + (radVer - markLength) * Math.sin(i * Math.PI / 6);
 
                 dc.drawLine(sX, sY, eX, eY);
             }
-            }
-
-        // Maybe change this so that 2-, 4-, 5-, ... marks follow rectangular shape of the watch.
+        }
         else {
+            // Corner of rectangular screen is on outer circle to make sure that marks always start on the edge of the screen
+            var xDiag = radHor * Math.cos(1.5 * Math.PI / 6);
+            var yDiag = radVer * Math.sin(1.5 * Math.PI / 6);
+            var innerRad = Math.sqrt(Math.pow(xDiag, 2) + Math.pow(yDiag, 2));
+            var outerRad = Math.sqrt((radHor * radHor) + (radVer * radVer));
+            var radFactor = outerRad / innerRad;
             // Marks can be placed every 1/12 of the circle. Iterating around the clock in units of pi/6. 
             // Intervals depend on number of marks specified.
             for (var i = 0; i < 12; i += (12 / markCount)) {
-                // Leaving space for a progress bar to go around the clock
-                var xOffset = border * Math.cos(i * Math.PI / 6);
-                var yOffset = border * Math.sin(i * Math.PI / 6);
+            
+                var sX = radHor + radFactor * radHor * Math.cos(i * Math.PI / 6);
+                var sY = radVer + radFactor * radVer * Math.sin(i * Math.PI / 6);
 
-                var sX = faceRadius + faceRadius * Math.cos(i * Math.PI / 6) - xOffset;
-                var sY = faceRadius + faceRadius * Math.sin(i * Math.PI / 6) - yOffset;
-                var eX = faceRadius + (faceRadius - markLength) * Math.cos(i * Math.PI / 6) - xOffset;
-                var eY = faceRadius + (faceRadius - markLength) * Math.sin(i * Math.PI / 6) - yOffset;
+                var eX = radHor + (radHor - markLength) * Math.cos(i * Math.PI / 6);
+                var eY = radVer + (radVer - markLength) * Math.sin(i * Math.PI / 6);
 
                 dc.drawLine(sX, sY, eX, eY);
             }
